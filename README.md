@@ -1,2 +1,2 @@
-# field_rotate
+# field-rotate
 Rotate openpmd mesh data
